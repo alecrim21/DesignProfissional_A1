@@ -4,22 +4,6 @@
 
 Repositório centralizador das evidências de posicionamento profissional.
 
----
-
-## ✅ Checklist de Entregáveis
-
-### 1. Candidatura (Vaga de Estágio)
-- [x] Inscrição realizada em plataforma de vagas.
-- 📎 **Arquivo:** [Visualizar Comprovante](./Processo_Reletivo.pdf)
-
-### 2. Currículo (Formato Técnico)
-- [x] Elaborado em LaTeX (Overleaf).
-- 📎 **Arquivo:** [Baixar Currículo](./Curriculo_Christopher.pdf)
-
-### 3. Portfólio (GitHub Profile)
-- [x] README de perfil personalizado com badges.
-- 🔗 **Link:** [Ver Perfil @alecrim21](https://github.com/alecrim21)
-
 ### 4. Repositórios de Disciplinas
 Organização dos materiais do 1º Semestre:
 - 📂 [Algoritmos e Lógica](https://github.com/alecrim21/Algoritmos-Logica-C)
